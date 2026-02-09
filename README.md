@@ -9,11 +9,7 @@ Email Me 👉 ✉️ **shivamchadel196gmail.com** For Collaboration/Project or A
 - 👯 I’m looking to collaborate on: Full Stack projects
 - 🤔 I’m looking for help with: Building real-world projects
 - 💬 Ask me about: Learning Full Stack Development
-- 📫 **How to reach me:** shivamchandel196@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ **Fun fact:** My code works… after 5 refreshes
-
-
 ## 🌐 Socials:
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Shivam6473) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamchanel196@gmail.com)
 
