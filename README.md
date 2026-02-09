@@ -5,11 +5,11 @@
 Email Me 👉 ✉️ **shivamchadel196gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 I’m currently working on: Learning Full Stack Development by building projects
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 I’m looking to collaborate on: Full Stack projects
-- 🤔 I’m looking for help with: Building real-world projects
-- 💬 Ask me about: Learning Full Stack Development
-- 😄 Pronouns: He/Him
+-  Building real-world web apps using React & Node.js
+-  I’m looking to collaborate on: Full Stack projects
+-  I’m looking for help with: Building real-world projects
+-  Ask me about: Learning Full Stack Development
+-  Pronouns: He/Him
 ## 🌐 Socials:
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Shivam6473) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamchanel196@gmail.com)
 
