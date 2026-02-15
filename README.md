@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamchandel196&theme=radical" alt="GitHub Streak" />
 </p>
----
 
 **Status:** Open to **Full-time positions** and **Freelance/Contract work**
 <p align="center">
