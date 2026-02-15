@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Shivam 👋  
-💻 Full Stack Development Learner | Web Enthusiast
+💻 Full Stack Developer | Web Enthusiast
 
 Email Me 👉 ✉️ **shivamchadel196gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
