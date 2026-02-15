@@ -28,13 +28,6 @@
 
 ---
 
-### Tools & Technologies
-<p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -52,39 +45,9 @@
 
 ---
 
-## 💼 I'm Looking For
-
-I'm actively seeking opportunities where I can:
-
--  Work on **challenging full-stack projects**
--  Collaborate with **experienced developers** and learn from them
--  Build **scalable and impactful applications**
--  Contribute to **innovative products** that solve real problems
-
 **Status:** Open to **Full-time positions** and **Freelance/Contract work**
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://shivamchandel196.github.io/Portfolio_New/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-brightgreen?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:shivamchandel196@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-shivamchandel196@gmail.com-red?style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://github.com/Shivamchandel196" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub-Shivamchandel196-black?style=for-the-badge" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>⚡ Fun Fact:</strong> I build projects instead of just watching tutorials 😄
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivamchandel196&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
