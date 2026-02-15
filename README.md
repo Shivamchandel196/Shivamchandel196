@@ -1,11 +1,11 @@
-<h1>Hi 👋, I'm Shivam Chandel</h1>
+<h1>Hi , I'm Shivam Chandel</h1>
 <p>A passionate frontend developer from India 🇮🇳 who loves building clean & responsive web experiences.</p>
 
-<h2>🚀 About Me</h2>
+<h2> About Me</h2>
 <ul>
-  <li>🔥 Learning by building real-world projects</li>
-  <li>💻 Focused on modern frontend & backend development</li>
-  <li>📈 Improving every single day</li>
+  <li> Learning by building real-world projects</li>
+  <li> Focused on modern frontend & backend development</li>
+  <li> Improving every single day</li>
   <li>🎯 Goal: Become a professional full stack developer</li>
 </ul>
 
@@ -29,7 +29,7 @@
 <ul>
   <li>GitHub: https://github.com/Shivamchandel196</li>
   <li>Email: shivamchandel196@gmail.com</li>
-  <li>Portfolio: (add your live site link here)</li>
+  <li>Portfolio: (https://shivamchandel196.github.io/Portfolio_New/)</li>
 </ul>
 
 <p>⚡ Fun fact: I build projects instead of just watching tutorials 😄</p>
