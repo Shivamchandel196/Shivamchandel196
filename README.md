@@ -28,47 +28,11 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend Development
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" alt="Redux"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap"/>
-</p>
-
-### Backend Development
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/>
-</p>
-
-### Database
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL"/>
-</p>
-
 ### Tools & Technologies
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
 </p>
-
----
-
-## 🚀 What I Do
-
-- ✅ Build **full-stack web applications** using MERN stack
-- ✅ Create **RESTful APIs** with Node.js and Express
-- ✅ Design **responsive and interactive UIs** with React and Tailwind CSS
-- ✅ Implement **state management** using Redux
-- ✅ Work with **databases** like MongoDB and PostgreSQL
-- ✅ Write **clean, maintainable code** following best practices
 
 ---
 
@@ -92,10 +56,10 @@
 
 I'm actively seeking opportunities where I can:
 
-- 🎯 Work on **challenging full-stack projects**
-- 🎯 Collaborate with **experienced developers** and learn from them
-- 🎯 Build **scalable and impactful applications**
-- 🎯 Contribute to **innovative products** that solve real problems
+-  Work on **challenging full-stack projects**
+-  Collaborate with **experienced developers** and learn from them
+-  Build **scalable and impactful applications**
+-  Contribute to **innovative products** that solve real problems
 
 **Status:** Open to **Full-time positions** and **Freelance/Contract work**
 
