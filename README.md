@@ -19,10 +19,7 @@
 
 <ul>
   <li>💻 Full Stack Developer specializing in <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js)</li>
-  <li> Learning by building <strong>real-world projects</strong>, not just tutorials</li>
-  <li> Focused on modern <strong>frontend & backend development</strong> with clean, scalable code</li>
-  <li> Improving every single day through hands-on practice</li>
-  <li> Goal: Become a professional full stack developer and contribute to impactful products</li>
+  <li> Focused on modern <strong>frontend & backend development</strong> with clean, scalable code</li
   <li><strong>Open to Full-time opportunities and Freelance projects</strong></li>
 </ul>
 
@@ -36,6 +33,7 @@
 </p>
 
 **Status:** Open to **Full-time positions** and **Freelance/Contract work**
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivamchandel196&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
