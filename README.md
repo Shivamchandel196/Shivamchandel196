@@ -32,7 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamchandel196&theme=radical" alt="GitHub Streak" />
 </p>
 
-**Status:** Open to **Full-time positions** and **Freelance/Contract work**
+                 **Status:** Open to **Full-time positions** and **Freelance/Contract work**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shivamchandel196&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
