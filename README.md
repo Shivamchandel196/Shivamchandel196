@@ -18,7 +18,6 @@
 ## 👨‍💻 About Me
 
 <ul>
-  <li>💻 Full Stack Developer specializing in <strong>MERN Stack</strong></li>
   <li> Focused on modern <strong>frontend & backend development</strong> with clean, scalable code</li
   <li><strong>Open to Full-time opportunities and Freelance projects</strong></li>
 </ul>
