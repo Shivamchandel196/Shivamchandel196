@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Chandel</h1>
-<h3 align="center">Java Full Stack Developer| Building Real-World Solutions</h3>
+<h3 align="center">MERN Full Stack Developer| Building Real-World Solutions</h3>
 
 <p align="center">
   <a href="https://shivamchandel196.github.io/Portfolio_New/" target="_blank">
