@@ -1,56 +1,21 @@
-<h1 align="center">Hi 👋, I'm Shivam Chandel</h1>
-<h3 align="center">MERN Full Stack Developer| Building Real-World Solutions</h3>
+## About Me
 
-<p align="center">
-  <a href="https://shivamchandel196.github.io/Portfolio_New/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:shivamchandel196@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Shivamchandel196" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Software Developer with a strong focus on backend development and full-stack web applications. Passionate about building scalable, clean, and practical solutions while continuously improving problem-solving and software engineering skills.
 
----
+Skilled in developing modern applications using JavaScript technologies with hands-on experience in REST APIs, authentication, database design, and full-stack development.
 
+Tech Stack:
+- Java
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
-## 👨‍💻 About Me
+Currently focused on:
+- Backend Development
+- Data Structures & Algorithms in Java
+- Building production-level MERN applications
+- Writing clean and maintainable code
 
-<ul>
-  <li> Focused on modern <strong>frontend & backend development</strong> with clean, scalable code</li
-  <li><strong>Open to Full-time opportunities and Freelance projects</strong></li>
-</ul>
-
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamchandel196&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivamchandel196&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <em>"Learning by doing, growing every day, building the future one project at a time."</em>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Always learning, building, and improving.
